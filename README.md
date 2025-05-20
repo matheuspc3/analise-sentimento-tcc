@@ -17,25 +17,8 @@ Projeto de conclusão de curso que investiga como o sentimento em tweets pode im
 - `src/`: código fonte principal  
 - `reports/`: resultados e visualizações  
 
-## Autor
+## Autores
 
 Matheus Carvalho - matheuspc3@hotmail.com
 Daniel Mendes - ddsm2003@gmail.com
 
-# analise-sentimento-tcc
-
-analise-sentimento-tcc/
-│
-├── data/                  # Datasets (exemplo: tweets, preços, dados processados)
-│
-├── notebooks/             # Jupyter notebooks com análises exploratórias e protótipos
-│
-├── src/                   # Código fonte principal (scripts, funções, classes)
-│
-├── reports/               # Relatórios e visualizações geradas
-│
-├── README.md              # Apresentação do projeto, instruções e resumo
-│
-├── requirements.txt       # Bibliotecas Python necessárias para rodar o projeto
-│
-└── LICENSE                # Arquivo de licença (se selecionada)
